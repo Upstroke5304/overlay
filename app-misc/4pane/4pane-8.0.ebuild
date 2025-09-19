@@ -15,7 +15,6 @@ IUSE="debug"
 DEPEND=">=x11-libs/wxGTK-3.0.0
         app-arch/xz-utils"
 FEATURES="sign"
-MASTER="gentoo"
 
 # The '--disable-desktop' et al stop the makefile trying to do these things; so hacking away at it isn't necessary
 src_compile() {
