@@ -3,7 +3,7 @@
 # $Header: $
 
 
-EAOI="7"
+EAPI="7"
 DESCRIPTION="A four-pane, detailed-list file manager"
 HOMEPAGE="http://www.4pane.co.uk/"
 SRC_URI="http://www.4pane.co.uk/gentoo/${P}.tar.gz"
